@@ -5,4 +5,4 @@ Repository for the code of basic RL Projects <br>
 1. Q Learning
 2. Deep Q Learning 
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/arun-josephraj)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/arun-josephraj)
